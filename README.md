@@ -21,8 +21,8 @@ Built as **Project 02** of the Web Development & Software Engineering Portfolio 
 
 ---
 
-## 🌐 Live Demo
-[Live Demo](https://bonaventure-c-dev.github.io/02-financial-calculator/)
+## 🌐 View Site
+[Click here to launch the live application](https://bonaventure-c-dev.github.io/02-financial-calculator/)
 
 ---
 
